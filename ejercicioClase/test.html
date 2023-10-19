@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Ejercicio1</title>
+    <link rel="stylesheet" href="estilo.css">
+    </head>
+    <body class="main">
+        <h1>Suba los archivos</h1>
+
+            
+        <form action="test.php" method="post" enctype="multipart/form-data">
+            <ul>
+                
+                <li>
+                    <label for="head">File:</label>
+                    <input type="file" required id="head" name="head">
+                </li>
+               
+                <li>
+                    <label for="header">File:</label>
+                    <input type="file" required id="header" name="header">
+                </li>
+                <li>
+                    <label for="main">File:</label>
+                    <input type="file" required id="main" name="main">
+                </li>
+                <li>
+                    <label for="footer">File:</label>
+                    <input type="file" required id="footer" name="footer">
+                </li>
+                
+                <li>
+                    <label for="send">Send:</label>
+                    <input type="submit" id="send" value="send">
+                </li>
+            </ul>
+        </form>
+    </body>
+</html>

@@ -1,0 +1,35 @@
+<body>
+
+    <div class="container">
+        <div class="flexcontainer">
+            <div class="item1">
+                <div class="earleft">
+                    <div class="move"><a href="#">Discover More</a></div>
+                </div>
+            </div>
+            <div class="item2">
+                <nav>
+                    <div class="logo">
+                        <div class="imglogo"></div>
+                    </div>
+                    <div class="nav" id="nav">
+                        <div class="navcollapse">
+                            <div id="nav-icon2">
+                                <span></span>
+                                <span></span>
+                                <span></span>
+                                <span></span>
+                                <span></span>
+                                <span></span>
+                            </div>
+                        </div>
+                        <ul id="menu_on">
+                            <li><a href="#">Home</a></li>
+                            <li><a href="#about">About</a></li>
+                            <li><a href="#works">Projects</a></li>
+                            <li><a href="#services">Services</a></li>
+                            <li><a href="#contact">Contact</a></li>
+                        </ul>
+                    </div>
+
+                </nav>

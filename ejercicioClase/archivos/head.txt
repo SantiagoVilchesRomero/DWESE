@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web Task #1</title>
+    <!-- Cargamos Jquery desde su directorio CDN -->
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="collapse.css">
+    <link rel="stylesheet" href="colbutton.css">
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+        integrity="sha256-k2WSCIexGzOj3Euiig+TlR8gA0EmPjuc79OEeY5L45g=" crossorigin="anonymous"></script>
+    <!-- Cargamos nuesto archivo Java Script-->
+    <script src="functions.js"></script>
+    <!-- Cargamos la fuente de Google Raleway : visitar Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>

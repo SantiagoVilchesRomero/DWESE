@@ -1,0 +1,271 @@
+ <div class="slider">
+                    <div class="legend">
+                        <div class="little">Style is Everything</div>
+                        <div class="great">Minimal <br />Approach</div>
+                        <div class="medium">Logo / Web / Print</div>
+                    </div>
+                </div>
+                <div class="item2footer">
+                    <ul class="navfooter">
+                        <li class="navitem nav1" itemactive></li>
+                        <li class="navitem nav2"></li>
+                        <li class="navitem nav3"></li>
+                        <li class="navitem nav4"></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="item3">
+                <div class="earright">
+                    <div class="subscribe"><a href="#">Subscribe</a></div>
+                    <div class="earbutton">
+                        <a href="#">
+                            <svg width="400" height="110">
+                                <rect width="20" height="6" style="stroke-width:3;stroke:rgb(255,255,255)" />
+                            </svg>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <section class="about" id="about">
+        <div class="container-about">
+            <div class="about-0"></div>
+            <div class="about-1">
+                <div class="aboutheader">
+                    <h4>Who we are</h4>
+                    <h1>About</h1>
+                </div>
+                <div class="separador"></div>
+                <span class="progresslabel">Identity - 60%</span>
+                <progress id="file" value="60" max="100"></progress>
+                <span class="progresslabel">Development - 75%</span>
+                <progress id="file" value="75" max="100"></progress>
+                <span class="progresslabel">Design - 98%</span>
+                <progress id="file" value="98" max="100"> </progress>
+            </div>
+            <div class="about-2">
+                <p><strong>New Zealand</strong> is an island country in the southwestern Pacific Ocean. </p>
+                <p>It consists of two main landmasses—the North Island and the South Island —and more than 700 smaller
+                    islands, covering a total area of 268,021 square kilometres . </p>
+            </div>
+            <div class="about-3">
+                <p><strong>New Zealand</strong> is about 2,000 kilometres east of Australia across the Tasman Sea and 1,000 kilometres
+                    south of the islands of New Caledonia, Fiji, and Tonga. </p>
+                <p>The country's varied topography and sharp mountain peaks, including the Southern Alps, owe much to
+                    tectonic uplift and volcanic eruptions.
+                    <strong>New Zealand's</strong> capital city is Wellington, and its most populous city is <strong>Auckland</strong>.</p>
+            </div>
+            <div class="about-0"></div>
+        </div>
+    </section>
+
+    <section class="team" id="team">
+        <div class="container-team">
+            <div class="team-header">
+                <div class="section-name">
+                    <h4>What we look like</h4>
+                    <h1>The team</h1>
+                </div>
+                <div class="section-legend">
+                    <span class="legend-about">Find out more about how we work</span>
+                </div>
+            </div>
+
+            <div class="team-slider">
+                <div class="slider-card">
+                    <div class="card">
+                        <div class="card1"></div>
+                        <footer>Ex nihilo / Creative Director</footer>
+                        <div class="socialmedia">
+                            <i class="fa fa-twitter"></i>
+                            <i class="fa fa-facebook"></i>
+                            <i class="fa fa-linkedin"></i>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <div class="card2"></div>
+                        <footer>Ex nihilo / Art Director</footer>
+                        <div class="socialmedia">
+                            <i class="fa fa-twitter"></i>
+                            <i class="fa fa-facebook"></i>
+                            <i class="fa fa-linkedin"></i>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <div class="card3"></div>
+                        <footer>Ex nihilo / Lead Designer</footer>
+                        <div class="socialmedia">
+                            <i class="fa fa-twitter"></i>
+                            <i class="fa fa-facebook"></i>
+                            <i class="fa fa-linkedin"></i>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+
+        </div>
+    </section>
+    <section class="works" id="works">
+
+        <div class="container-works">
+            <div class="works-header">
+                <div class="section-name">
+                    <h4>What it looks like</h4>
+                    <h1>Works</h1>
+                </div>
+                <div class="section-legend">
+                    <span class="works-legend">Find out more about our works</span>
+                </div>
+            </div>
+            <div class="works-body">
+                <div class="workizda"></div>
+                <div class="workdcha">
+                    <div class="workarriba">Works #1</div>
+                    <div class="workabajo"></div>
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+    <section class="works1">
+        <div class="works1-container">
+            <div class="works1-fila2">
+                <div class="witem3">
+                    <p>Item Name #2</p>
+                    <p class="subtitle">Commercial / People</p>
+                </div>
+                <div class="witem4">
+                    <p>Looking through his lens at the world, Mark Emirali finds wonder in the landscapes, people and
+                        places he passes by daily. His landscapes are simply stunning, and his individualistic street
+                        photographs cause the viewer to feel a deep affinity toward the subject. </p>
+                </div>
+            </div>
+            <div class="works1-fila1">
+                <div class="witem1"></div>
+                <div class="witem2"></div>
+            </div>
+
+
+        </div>
+
+
+    </section>
+    <section class="works2">
+        <div class="works2-container">
+            <div class="works2-fila2">
+                <div class="witem7">
+                    <p>Item Name #3</p>
+                    <p class="subtitle">Commercial / People</p>
+                </div>
+                <div class="witem8">
+                    <p><strong>Wharariki Beach:</strong> One of the most beautiful beaches I've ever seen! It's a
+                        must-see when you're in New Zealand. This is the Archway Islands on the Wharariki Beach on the
+                        Northwestern side of the south Island of New Zealand at sunset.</p>
+                </div>
+            </div>
+            <div class="works2-fila1">
+                <div class="witem5"></div>
+                <div class="witem6"></div>
+            </div>
+
+
+        </div>
+    </section>
+
+    <section class="services" id="services">
+        <div class="services-container">
+            <div class="services-header">
+                <div class="section-name">
+                    <h4>What can we offer you</h4>
+                    <h1>Services</h1>
+                </div>
+                <div class="section-legend">
+                    <span class="legend-services">What clients are saying</span>
+                </div>
+            </div>
+            <div class="services-body">
+                <div class="ser ser1">
+                    <p>Graphic <strong>Design</strong></p>
+                    <p>Graphic design is a craft where professionals create visual content to communicate messages.
+                        Graphic design is a craft where professionals create visual content to communicate messages.
+                        Graphic design is a craft where professionals create visual content to communicate messages.
+                    </p>
+                </div>
+                <div class="ser ser2">
+                    <p>Photo <strong>Reports</strong></p>
+                    <p>We’ve made it easier than ever to create quick and efficient photo reports.
+                        Graphic design is a craft where professionals create visual content to communicate messages.
+                        Graphic design is a craft where professionals create visual content to communicate messages.
+                    </p>
+                </div>
+                <div class="ser ser3">
+                    <p>Video <strong>Graphics</strong></p>
+                    <p>Free motion graphics and animations, free HD and 4K video clips to use in motion video.
+                        Graphic design is a craft where professionals create visual content to communicate messages.
+                        Graphic design is a craft where professionals create visual content to communicate messages.
+                    </p>
+                </div>
+                <div class="ser ser4">
+                    <p>Web <strong>Development</strong></p>
+                    <p>Every Web Developer must have a basic understanding of HTML, CSS, and JavaScript. Responsive Web
+                        Design is used.
+                        Graphic design is a craft where professionals create visual content to communicate messages.
+                        Graphic design is a craft where professionals create visual content to communicate messages.
+                    </p>
+                </div>
+
+            </div>
+        </div>
+    </section>
+    <section class="news">
+        <div class="news-container">
+            <div class="news-header">
+                <div class="section-name">
+                    <h4>Our current projects</h4>
+                    <h1>News</h1>
+                </div>
+                <div class="section-legend">
+                    <span class="legend-news">What clients are saying</span>
+                </div>
+            </div>
+            <div class="news-body">
+                <div class="news-foto">
+                    <div class="newspic"></div>
+                    <div class="newsnav">
+                        <a href="#" class="sldopt active"></a>
+                        <a href="#" class="sldopt "></a>
+                        <a href="#" class="sldopt "></a>
+
+                    </div>
+                </div>
+                <div class="news-texto">
+                    <p class="date">03 - 03 - 2021, Tuesday</p>
+                    <p class="title">Blue eyes woman</p>
+                    <p class="subtitle">Commercial / People</p>
+                    <p class="parrafo">It appears that a genetic mutation in a single individual in Europe 6,000 to
+                        10,000 years ago led to the development of blue eyes, according to researchers at the University
+                        of Copenhagen.</p>
+
+                    <br />
+                    <p class="parrafo">"Originally, we all had brown eyes," said Hans Eiberg, associate professor in the
+                        Department of Cellular and Molecular Medicine at the university and lead author of the study.
+                    </p>
+                </div>
+            </div>
+            <div class="news-footer">
+                <div class="newsnav mt50">
+                    <a href="#" class="sldopt active"></a>
+                    <a href="#" class="sldopt "></a>
+                    <a href="#" class="sldopt "></a>
+
+                </div>
+            </div>
+        </div>
+
+
+    </section>
+    

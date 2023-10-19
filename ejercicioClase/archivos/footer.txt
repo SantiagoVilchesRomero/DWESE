@@ -1,0 +1,77 @@
+<section class="quote">
+        <div class="quote-container">
+
+            <div class="quote-item">
+
+                <div class="quote-pic">
+                    <div class="myquote">
+                        <p class="quote-little">If you can´t explain it to a six year old. you don't understand it
+                            itself </p>
+                        <div class="bordered"></div>
+                        <p class="quote-great">Albert Einstein</p>
+                        <div class="newsnav mt50">
+                            <a href="#" class="sldopt activew"></a>
+                            <a href="#" class="sldopt "></a>
+                            <a href="#" class="sldopt "></a>
+
+                        </div>
+                    </div>
+                </div>
+                <footer></footer>
+            </div>
+
+        </div>
+        </div>
+    </section>
+    <section class="contact" id="contact">
+        <div class="contact-container">
+
+            <div class="contact-header">
+                <div class="section-name">
+                    <h4>Where you can find us</h4>
+                    <h1>Contact</h1>
+                </div>
+                <div class="section-legend">
+                    <span class="legend">Find us on google maps</span>
+                </div>
+            </div>
+            <div class="contact-body">
+                <div class="line"><span>ex nihilo inc.</span><span>(1) 987 87 87 90</span><span>master@ex.com</span>
+                </div>
+                <div class="line"><span>C/ Fontiveros 34</span><span>(1) 500 87 87 90</span><span>info@ex.com</span>
+                </div>
+                <form class="mt50">
+                    <input type="text" name="name" placeholder="name">
+                    <input type="text" name="email" placeholder="email">
+                    <input type="text" name="subject" placeholder="subject">
+                    message
+                    <div class="messagetext">
+                        <textarea placeholder="message">
+                        </textarea>
+                    </div>
+                    <input type="submit" value="Submit">
+                </form>
+            </div>
+
+        </div>
+        </div>
+    </section>
+    <section class="last">
+        <div class="last-container">
+
+            <div class="last-item1"></div>
+
+            <div class="last-item2"></div>
+
+        </div>
+        </div>
+    </section>
+
+    <footer>
+        <div class="logofooter"></div>
+    </footer>
+
+
+</body>
+
+</html>
